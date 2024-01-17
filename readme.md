@@ -10,3 +10,8 @@
 * Update PythonApi/main.py with servername and if you're using a different version of stack overflow databse update that too
     * DESKTOP-4JD1FLM => LAPTOP-UM5BI89M
 
+
+
+## To start the webserver
+* npm install 
+* npm run dev
